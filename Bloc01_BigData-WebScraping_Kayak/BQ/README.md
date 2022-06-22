@@ -1,1 +1,0 @@
-Lien vidéo : https://share.vidyard.com/watch/PdwuP11mGQWkX94ehwpF7R?
