@@ -6,5 +6,6 @@ Bloc n°1 : Construction et alimentation d’une infrastructure de gestion de do
 Credit to: <br/>
 Ines BEN AMOR <br/>
 Pierre KA <br/>
-Berenger et <br/>
-Kevin
+Berenger <br/>
+Kevin <br/>
+and Google
